@@ -8,7 +8,7 @@ function NavBar() {
   return (
     <Navbar expand="lg" className="bg-body-tertiary">
       <Container>
-        <Navbar.Brand href="/">
+        <Navbar.Brand href="/marigolds">
           logo
         </Navbar.Brand>
         <Navbar.Toggle aria-controls="basic-navbar-nav"/>

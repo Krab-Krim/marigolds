@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/marigolds/static/css/main.e24d8af0.css",
-    "main.js": "/marigolds/static/js/main.1dcae502.js",
+    "main.js": "/marigolds/static/js/main.1abc5e8b.js",
     "static/js/787.0a514b8f.chunk.js": "/marigolds/static/js/787.0a514b8f.chunk.js",
     "index.html": "/marigolds/index.html",
     "main.e24d8af0.css.map": "/marigolds/static/css/main.e24d8af0.css.map",
-    "main.1dcae502.js.map": "/marigolds/static/js/main.1dcae502.js.map",
+    "main.1abc5e8b.js.map": "/marigolds/static/js/main.1abc5e8b.js.map",
     "787.0a514b8f.chunk.js.map": "/marigolds/static/js/787.0a514b8f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e24d8af0.css",
-    "static/js/main.1dcae502.js"
+    "static/js/main.1abc5e8b.js"
   ]
 }

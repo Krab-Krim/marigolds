@@ -12,7 +12,7 @@ function PopularPrice () {
             <Card.Img
               variant="top"
               src={"https://www.rabstol.net/uploads/gallery/main/50/rabstol_net_texture_28.jpg"}
-              alt={""}
+              alt={"1"}
             />
             <Card.Body>
               <Card.Title>Card Title</Card.Title>

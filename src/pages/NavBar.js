@@ -14,11 +14,11 @@ function NavBar() {
         <Navbar.Toggle aria-controls="basic-navbar-nav"/>
         <Navbar.Collapse id="basic-navbar-nav" className="justify-content-end">
           <Nav variant="pills" className="navBarContainer">
-            <NavLink to="/">Главная</NavLink>
-            <NavLink to="/services">Услуги</NavLink>
-            <NavLink to="/price">Прайс</NavLink>
-            <NavLink to="/portfolio">Портфолио</NavLink>
-            <NavLink to="/contact">Контакты</NavLink>
+            <NavLink to="/marigolds">Главная</NavLink>
+            <NavLink to="/marigolds/services">Услуги</NavLink>
+            <NavLink to="/marigolds/price">Прайс</NavLink>
+            <NavLink to="/marigolds/portfolio">Портфолио</NavLink>
+            <NavLink to="/marigolds/contact">Контакты</NavLink>
           </Nav>
         </Navbar.Collapse>
       </Container>

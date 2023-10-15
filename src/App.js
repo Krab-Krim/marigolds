@@ -12,10 +12,10 @@ function App() {
       <Routes>
         <Route path="/marigolds" element={<Layout/>}>
           <Route index element={<Home/>} />
-          <Route path="marigolds/services" element={<Services/>} />
-          <Route path="marigolds/price" element={<Price/>} />
-          <Route path="marigolds/portfolio" element={<Portfolio/>} />
-          <Route path="marigolds/contact" element={<Contact/>} />
+          <Route path="/marigolds/services" element={<Services/>} />
+          <Route path="/marigolds/price" element={<Price/>} />
+          <Route path="/marigolds/portfolio" element={<Portfolio/>} />
+          <Route path="/marigolds/contact" element={<Contact/>} />
         </Route>
       </Routes>
     </BrowserRouter>
